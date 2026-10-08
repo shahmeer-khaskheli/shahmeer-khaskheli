@@ -38,7 +38,7 @@
 - 🌐 **Portfolio:** [systems-engineer-por-zwhh.bolt.host](https://systems-engineer-por-zwhh.bolt.host)
 - 💼 **Upwork:** [Hire Shahmeer Khaskheli on Upwork](https://www.upwork.com)
 - 🐙 **GitHub:** [@shahmeer-khaskheli](https://github.com/shahmeer-khaskheli)
-- 🐤 **Twitter / X:** [@shahmeer_rust](https://twitter.com/shahmeer_rust)
+- 🐤 **Twitter / X:** [https://x.com/shahmeer2oxd (https://twitter.com/shahmeer_rust) 
 - 📧 **Email:** [Shahmeerkhaskhely8@gmail.com](mailto:Shahmeerkhaskhely8@gmail.com)
 
 ---
